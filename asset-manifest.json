@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/myshopf/static/css/main.80f1e444.chunk.css",
+    "main.js": "/myshopf/static/js/main.53d4741a.chunk.js",
+    "main.js.map": "/myshopf/static/js/main.53d4741a.chunk.js.map",
+    "runtime-main.js": "/myshopf/static/js/runtime-main.37cb5504.js",
+    "runtime-main.js.map": "/myshopf/static/js/runtime-main.37cb5504.js.map",
+    "static/js/2.073d570b.chunk.js": "/myshopf/static/js/2.073d570b.chunk.js",
+    "static/js/2.073d570b.chunk.js.map": "/myshopf/static/js/2.073d570b.chunk.js.map",
+    "index.html": "/myshopf/index.html",
+    "precache-manifest.98d73cf17d1d268be1233cdf7ba787d4.js": "/myshopf/precache-manifest.98d73cf17d1d268be1233cdf7ba787d4.js",
+    "service-worker.js": "/myshopf/service-worker.js",
+    "static/css/main.80f1e444.chunk.css.map": "/myshopf/static/css/main.80f1e444.chunk.css.map",
+    "static/js/2.073d570b.chunk.js.LICENSE.txt": "/myshopf/static/js/2.073d570b.chunk.js.LICENSE.txt",
+    "static/media/banner-img.png": "/myshopf/static/media/banner-img.91dd83e9.png",
+    "static/media/c1.jpg": "/myshopf/static/media/c1.45b22b53.jpg",
+    "static/media/c2.jpg": "/myshopf/static/media/c2.8c5af8aa.jpg",
+    "static/media/c3.jpg": "/myshopf/static/media/c3.39d53fb7.jpg",
+    "static/media/c4.jpg": "/myshopf/static/media/c4.1a9cca0b.jpg",
+    "static/media/c5.jpg": "/myshopf/static/media/c5.6a02f457.jpg",
+    "static/media/cart.jpg": "/myshopf/static/media/cart.4f51357f.jpg",
+    "static/media/login.jpg": "/myshopf/static/media/login.9df590d6.jpg",
+    "static/media/review-1.png": "/myshopf/static/media/review-1.3b9eae59.png",
+    "static/media/review-2.png": "/myshopf/static/media/review-2.046aed0d.png",
+    "static/media/review-3.png": "/myshopf/static/media/review-3.4950bd7d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37cb5504.js",
+    "static/js/2.073d570b.chunk.js",
+    "static/css/main.80f1e444.chunk.css",
+    "static/js/main.53d4741a.chunk.js"
+  ]
+}
