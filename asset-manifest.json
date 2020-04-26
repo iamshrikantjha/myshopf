@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/myshopf/static/css/main.80f1e444.chunk.css",
-    "main.js": "/myshopf/static/js/main.53d4741a.chunk.js",
-    "main.js.map": "/myshopf/static/js/main.53d4741a.chunk.js.map",
+    "main.js": "/myshopf/static/js/main.037dd670.chunk.js",
+    "main.js.map": "/myshopf/static/js/main.037dd670.chunk.js.map",
     "runtime-main.js": "/myshopf/static/js/runtime-main.37cb5504.js",
     "runtime-main.js.map": "/myshopf/static/js/runtime-main.37cb5504.js.map",
     "static/js/2.073d570b.chunk.js": "/myshopf/static/js/2.073d570b.chunk.js",
     "static/js/2.073d570b.chunk.js.map": "/myshopf/static/js/2.073d570b.chunk.js.map",
     "index.html": "/myshopf/index.html",
-    "precache-manifest.98d73cf17d1d268be1233cdf7ba787d4.js": "/myshopf/precache-manifest.98d73cf17d1d268be1233cdf7ba787d4.js",
+    "precache-manifest.45ac6575b0e1b45cebeaacdbea8286c2.js": "/myshopf/precache-manifest.45ac6575b0e1b45cebeaacdbea8286c2.js",
     "service-worker.js": "/myshopf/service-worker.js",
     "static/css/main.80f1e444.chunk.css.map": "/myshopf/static/css/main.80f1e444.chunk.css.map",
     "static/js/2.073d570b.chunk.js.LICENSE.txt": "/myshopf/static/js/2.073d570b.chunk.js.LICENSE.txt",
@@ -28,6 +28,6 @@
     "static/js/runtime-main.37cb5504.js",
     "static/js/2.073d570b.chunk.js",
     "static/css/main.80f1e444.chunk.css",
-    "static/js/main.53d4741a.chunk.js"
+    "static/js/main.037dd670.chunk.js"
   ]
 }
